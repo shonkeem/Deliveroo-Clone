@@ -1,0 +1,1 @@
+expo-cli start --tunnel => to get qr code working on iphone
